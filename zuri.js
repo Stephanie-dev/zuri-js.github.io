@@ -1,8 +1,4 @@
-let title = "Okafor Chiamaka Stephanie";
-alert(`My name is ${title}`);
-
-let height = "Six Feet Tall";
-alert(`I am ${height}`);
-
-let country = "Nigeria";
-alert(`I am from ${country}`);
+let title = "Okafor Chiamaka Stephanie.";
+let height = "Six Feet Tall.";
+let country = "Nigeria.";
+alert(`My name is ${title} \n I am ${height} \n  I am from ${country}`);
